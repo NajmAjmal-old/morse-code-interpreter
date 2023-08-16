@@ -1,2 +1,2 @@
 # morse-code-interpreter
-Oline morse code interpreter
+Online morse code interpreter
