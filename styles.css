@@ -27,6 +27,15 @@ textarea {
     resize: none;
 }
 
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
 .output-container {
     margin-top: 20px;
 }
